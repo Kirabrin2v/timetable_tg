@@ -1,0 +1,2388 @@
+{
+    "2025-03-25": {
+        "146": [],
+        "162": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 03.01",
+                "audience": "108М",
+                "teacher": "Свобода О. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 03.01",
+                "audience": "108М",
+                "teacher": "Свобода О. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 03.01",
+                "audience": "108М",
+                "teacher": "Свобода О. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 03.01",
+                "audience": "307",
+                "teacher": "Свобода О. В."
+            }
+        ],
+        "163": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 01.04",
+                "audience": "108М",
+                "teacher": "Учебная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 01.04",
+                "audience": "108М",
+                "teacher": "Учебная практика . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 01.04",
+                "audience": "108М",
+                "teacher": "Учебная практика . ."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.04",
+                "audience": "307",
+                "teacher": "Учебная практика . ."
+            }
+        ],
+        "131": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 02.01",
+                "audience": "404",
+                "teacher": "Петров О. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 02.01",
+                "audience": "404",
+                "teacher": "Петров О. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 02.01",
+                "audience": "404",
+                "teacher": "Петров О. В."
+            }
+        ],
+        "110": [],
+        "133": [],
+        "98": [],
+        "148": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Математика",
+                "audience": "301",
+                "teacher": "Бирюкова Е. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Математика",
+                "audience": "301",
+                "teacher": "Бирюкова Е. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Биология",
+                "audience": "211",
+                "teacher": "Омарова М. М."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Биология",
+                "audience": "211",
+                "teacher": "Омарова М. М."
+            }
+        ],
+        "112": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 02.01",
+                "audience": "208М",
+                "teacher": "Коваленко К. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 02.01",
+                "audience": "208М",
+                "teacher": "Коваленко К. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Психология",
+                "audience": "209",
+                "teacher": "Карагадян И. Р."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Психология",
+                "audience": "209",
+                "teacher": "Карагадян И. Р."
+            }
+        ],
+        "126": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Теплотехника",
+                "audience": "303",
+                "teacher": "Таюрский  П. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Теплотехника",
+                "audience": "303",
+                "teacher": "Таюрский  П. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 02.01",
+                "audience": "208М",
+                "teacher": "Коваленко К. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 02.01",
+                "audience": "208М",
+                "teacher": "Коваленко К. В."
+            }
+        ],
+        "107": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шерпетите Н. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шерпетите Н. В."
+            }
+        ],
+        "140": [],
+        "157": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Информатика",
+                "audience": "403",
+                "teacher": "Жданов А. П."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Информатика",
+                "audience": "403",
+                "teacher": "Жданов А. П."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Математика",
+                "audience": "203",
+                "teacher": "Преснова Т. И."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Математика",
+                "audience": "203",
+                "teacher": "Преснова Т. И."
+            }
+        ],
+        "114": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шелаева Д. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шелаева Д. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Родной язык",
+                "audience": "411",
+                "teacher": "Ерохина О. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Литература",
+                "audience": "411",
+                "teacher": "Ерохина О. А."
+            }
+        ],
+        "158": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Теория вероятностей",
+                "audience": "203",
+                "teacher": "Преснова Т. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Теория вероятностей",
+                "audience": "203",
+                "teacher": "Преснова Т. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Основы философии",
+                "audience": "406",
+                "teacher": "Рацинс И. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Основы философии",
+                "audience": "406",
+                "teacher": "Рацинс И. В."
+            }
+        ],
+        "100": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 11.01",
+                "audience": "306М",
+                "teacher": "Бурбулис Э. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 11.01",
+                "audience": "306М",
+                "teacher": "Бурбулис Э. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 11.01",
+                "audience": "306М",
+                "teacher": "Бурбулис Э. А."
+            }
+        ],
+        "115": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "БЖД",
+                "audience": "218",
+                "teacher": "Димонт А. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "БЖД",
+                "audience": "218",
+                "teacher": "Димонт А. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "БЖД",
+                "audience": "218",
+                "teacher": "Димонт А. И."
+            }
+        ],
+        "82": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Производственная практика . ."
+            }
+        ],
+        "139": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Производственная практика . ."
+            }
+        ],
+        "150": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Введение в специальность",
+                "audience": "116",
+                "teacher": "Шестерова А. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Введение в специальность",
+                "audience": "116",
+                "teacher": "Шестерова А. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Введение в специальность",
+                "audience": "116",
+                "teacher": "Шестерова А. А."
+            }
+        ],
+        "116": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 05.01",
+                "audience": "304М",
+                "teacher": "Иванова В. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 05.01",
+                "audience": "304М",
+                "teacher": "Иванова В. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 05.01",
+                "audience": "304М",
+                "teacher": "Иванова В. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 03.01",
+                "audience": "304М",
+                "teacher": "Иванова В. А."
+            }
+        ],
+        "103": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 03.01",
+                "audience": "307",
+                "teacher": "Дейнега  А. С."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 03.01",
+                "audience": "307",
+                "teacher": "Дейнега  А. С."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 03.01",
+                "audience": "307",
+                "teacher": "Дейнега  А. С."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Цифровой модельер",
+                "audience": "401",
+                "teacher": "Производственная практика . ."
+            }
+        ],
+        "129": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Цифровой модельер",
+                "audience": "Д/О",
+                "teacher": "Мармыж Ю. О."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Цифровой модельер",
+                "audience": "Д/О",
+                "teacher": "Мармыж Ю. О."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Цифровой модельер",
+                "audience": "Д/О",
+                "teacher": "Мармыж Ю. О."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Цифровой модельер",
+                "audience": "Д/О",
+                "teacher": "Мармыж Ю. О."
+            }
+        ],
+        "117": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Материаловедение",
+                "audience": "408",
+                "teacher": "Ляхов Г. П."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Материаловедение",
+                "audience": "408",
+                "teacher": "Ляхов Г. П."
+            }
+        ],
+        "102": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шерпетите Н. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шерпетите Н. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.02",
+                "audience": "303",
+                "teacher": "Таюрский  П. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.02",
+                "audience": "303",
+                "teacher": "Таюрский  П. А."
+            }
+        ],
+        "141": [],
+        "152": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Литература",
+                "audience": "201",
+                "teacher": "Корягина Е. Е."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Литература",
+                "audience": "201",
+                "teacher": "Корягина Е. Е."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Математика",
+                "audience": "301",
+                "teacher": "Бирюкова Е. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Математика",
+                "audience": "301",
+                "teacher": "Бирюкова Е. А."
+            }
+        ],
+        "147": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "География",
+                "audience": "211",
+                "teacher": "Омарова М. М."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Биология",
+                "audience": "211",
+                "teacher": "Омарова М. М."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Введение в специальность",
+                "audience": "300М",
+                "teacher": "Грикшас Л. О."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Введение в специальность",
+                "audience": "300М",
+                "teacher": "Грикшас Л. О."
+            }
+        ],
+        "118": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "216",
+                "teacher": "Делопроизводитель . ./Мпондо Ванг Д. ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "216",
+                "teacher": "Делопроизводитель . ./Мпондо Ванг Д. ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Гамаева  А. С."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Гамаева  А. С."
+            }
+        ],
+        "160": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.02",
+                "audience": "208",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.02",
+                "audience": "208",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Производственная практика . ."
+            }
+        ],
+        "104": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.04",
+                "audience": "300М",
+                "teacher": "Грикшас Л. О."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.04",
+                "audience": "300М",
+                "teacher": "Грикшас Л. О."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "1С:Бухгалтерия",
+                "audience": "403",
+                "teacher": "Ахметова И. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "1С:Бухгалтерия",
+                "audience": "403",
+                "teacher": "Ахметова И. В."
+            }
+        ],
+        "119": [
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 04.01",
+                "audience": "308",
+                "teacher": "Подготовка к диплому . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 04.01",
+                "audience": "308",
+                "teacher": "Подготовка к диплому . ."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "УП 04.01",
+                "audience": "308",
+                "teacher": "Подготовка к диплому . ."
+            }
+        ],
+        "151": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "ОМРК",
+                "audience": "411",
+                "teacher": "Ерохина О. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "ОМРК",
+                "audience": "411",
+                "teacher": "Ерохина О. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Введение в специальность",
+                "audience": "202",
+                "teacher": "Курилович Н. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Введение в специальность",
+                "audience": "202",
+                "teacher": "Курилович Н. А."
+            }
+        ],
+        "120": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Организация хранения",
+                "audience": "202",
+                "teacher": "Курилович Н. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Организация хранения",
+                "audience": "202",
+                "teacher": "Курилович Н. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Право",
+                "audience": "300",
+                "teacher": "Костандов Э. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Право",
+                "audience": "300",
+                "teacher": "Костандов Э. В."
+            }
+        ],
+        "105": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "ЛПЗ 05.02",
+                "audience": "столовая",
+                "teacher": "Клягин И. Г."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "ЛПЗ 05.02",
+                "audience": "столовая",
+                "teacher": "Клягин И. Г."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "ЛПЗ 05.02",
+                "audience": "столовая",
+                "teacher": "Клягин И. Г."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 05.02",
+                "audience": "205М",
+                "teacher": "Клягин И. Г."
+            }
+        ],
+        "86": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Подготовка к курсовой работе",
+                "audience": "Д/О",
+                "teacher": "Подготовка к диплому . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Подготовка к курсовой работе",
+                "audience": "Д/О",
+                "teacher": "Подготовка к диплому . ."
+            }
+        ],
+        "149": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Обществознание",
+                "audience": "300",
+                "teacher": "Костандов Э. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Обществознание",
+                "audience": "300",
+                "teacher": "Костандов Э. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Химия",
+                "audience": "205",
+                "teacher": "Кононова Ю. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Химия",
+                "audience": "205",
+                "teacher": "Кононова Ю. А."
+            }
+        ],
+        "155": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Физика",
+                "audience": "306",
+                "teacher": "Логинова М. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Физика",
+                "audience": "306",
+                "teacher": "Логинова М. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Информатика",
+                "audience": "216",
+                "teacher": "Жданов А. П."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Информатика",
+                "audience": "216",
+                "teacher": "Жданов А. П."
+            }
+        ],
+        "154": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "История",
+                "audience": "302",
+                "teacher": "Зубакова И. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "История",
+                "audience": "302",
+                "teacher": "Зубакова И. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Математика",
+                "audience": "306",
+                "teacher": "Логинова М. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Математика",
+                "audience": "306",
+                "teacher": "Логинова М. А."
+            }
+        ],
+        "121": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Технологическое оборудование",
+                "audience": "304",
+                "teacher": "Белоконев К. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Технологическое оборудование",
+                "audience": "304",
+                "teacher": "Белоконев К. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Техническая механика",
+                "audience": "408",
+                "teacher": "Ляхов Г. П."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Техническая механика",
+                "audience": "408",
+                "teacher": "Ляхов Г. П."
+            }
+        ],
+        "132": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "ЛПЗ 06.01",
+                "audience": "407",
+                "teacher": "Ергемлидзе В. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "ЛПЗ 06.01",
+                "audience": "407",
+                "teacher": "Ергемлидзе В. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "ЛПЗ 06.01",
+                "audience": "407",
+                "teacher": "Ергемлидзе В. И."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шерпетите Н. В."
+            }
+        ],
+        "159": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 06.01",
+                "audience": "Д/О",
+                "teacher": "Сафаралиев Н. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 06.01",
+                "audience": "Д/О",
+                "teacher": "Сафаралиев Н. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 06.01",
+                "audience": "Д/О",
+                "teacher": "Сафаралиев Н. В."
+            }
+        ],
+        "135": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 02.01",
+                "audience": "209",
+                "teacher": "Козлова Л. М."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 02.01",
+                "audience": "209",
+                "teacher": "Козлова Л. М."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Техническая механика",
+                "audience": "304",
+                "teacher": "Белоконев К. И."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Техническая механика",
+                "audience": "304",
+                "teacher": "Белоконев К. И."
+            }
+        ],
+        "136": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 02.01",
+                "audience": "309",
+                "teacher": "Збылина Ю. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 02.01",
+                "audience": "309",
+                "teacher": "Збылина Ю. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шерпетите Н. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "БЖД",
+                "audience": "218",
+                "teacher": "Димонт А. И."
+            }
+        ],
+        "137": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 02.01",
+                "audience": "Д/О",
+                "teacher": "Бугаёв А. С."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 02.01",
+                "audience": "Д/О",
+                "teacher": "Бугаёв А. С."
+            }
+        ],
+        "123": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Инженерная графика",
+                "audience": "Д/О",
+                "teacher": "Ремпель Н. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Инженерная графика",
+                "audience": "Д/О",
+                "teacher": "Ремпель Н. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Инженерная графика",
+                "audience": "Д/О",
+                "teacher": "Ремпель Н. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.03",
+                "audience": "207М",
+                "teacher": "Кашев О. В."
+            }
+        ],
+        "101": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.03",
+                "audience": "207М",
+                "teacher": "Кашев О. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.03",
+                "audience": "207М",
+                "teacher": "Кашев О. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.03",
+                "audience": "207М",
+                "teacher": "Кашев О. В."
+            }
+        ],
+        "83": [],
+        "156": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Химия",
+                "audience": "205",
+                "teacher": "Кононова Ю. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Химия",
+                "audience": "205",
+                "teacher": "Кононова Ю. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "История",
+                "audience": "302",
+                "teacher": "Зубакова И. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "История",
+                "audience": "302",
+                "teacher": "Зубакова И. В."
+            }
+        ],
+        "124": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "406",
+                "teacher": "Боева О. В./Лигостаева А. Н."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "406",
+                "teacher": "Боева О. В./Лигостаева А. Н."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Основы латинского языка",
+                "audience": "208",
+                "teacher": "Лебедева Н. Г."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Основы латинского языка",
+                "audience": "208",
+                "teacher": "Лебедева Н. Г."
+            }
+        ],
+        "106": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.01",
+                "audience": "104",
+                "teacher": "Клешнина С. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.01",
+                "audience": "104",
+                "teacher": "Клешнина С. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.01",
+                "audience": "104",
+                "teacher": "Клешнина С. В."
+            }
+        ],
+        "88": [],
+        "153": [
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Литература",
+                "audience": "201",
+                "teacher": "Корягина Е. Е."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Родной язык",
+                "audience": "201",
+                "teacher": "Корягина Е. Е."
+            }
+        ]
+    },
+    "2025-03-26": {
+        "146": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Введение в специальность",
+                "audience": "401",
+                "teacher": "Мармыж Ю. О."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Введение в специальность",
+                "audience": "401",
+                "teacher": "Мармыж Ю. О."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Информатика",
+                "audience": "403",
+                "teacher": "Жданов А. П."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Информатика",
+                "audience": "403",
+                "teacher": "Жданов А. П."
+            }
+        ],
+        "162": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Адаптивные информационные технологии",
+                "audience": "403",
+                "teacher": "Курилович Н. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Адаптивные информационные технологии",
+                "audience": "403",
+                "teacher": "Курилович Н. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Психология",
+                "audience": "202",
+                "teacher": "Толмачева Е. С."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Психология",
+                "audience": "202",
+                "teacher": "Толмачева Е. С."
+            }
+        ],
+        "163": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Адаптивные информационные технологии",
+                "audience": "202",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Адаптивные информационные технологии",
+                "audience": "202",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Психология",
+                "audience": "202",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Психология",
+                "audience": "202",
+                "teacher": "Производственная практика . ."
+            }
+        ],
+        "131": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 03.01",
+                "audience": "404",
+                "teacher": "Федонюк  Е. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 03.01",
+                "audience": "404",
+                "teacher": "Федонюк  Е. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 03.01",
+                "audience": "404",
+                "teacher": "Федонюк  Е. И."
+            }
+        ],
+        "110": [],
+        "133": [],
+        "98": [],
+        "148": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "ОБЗР",
+                "audience": "218",
+                "teacher": "Димонт А. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "ОБЗР",
+                "audience": "218",
+                "teacher": "Димонт А. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Математика",
+                "audience": "301",
+                "teacher": "Бирюкова Е. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Математика",
+                "audience": "301",
+                "teacher": "Бирюкова Е. А."
+            }
+        ],
+        "112": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "ЛПЗ 04.01",
+                "audience": "201М",
+                "teacher": "Бугаёв А. С."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "ЛПЗ 04.01",
+                "audience": "201М",
+                "teacher": "Бугаёв А. С."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "ЛПЗ 04.01",
+                "audience": "201М",
+                "teacher": "Бугаёв А. С."
+            }
+        ],
+        "126": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 01.01",
+                "audience": "208М",
+                "teacher": "Коваленко К. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 01.01",
+                "audience": "208М",
+                "teacher": "Коваленко К. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 01.01",
+                "audience": "208М",
+                "teacher": "Коваленко К. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "УП 01.01",
+                "audience": "208М",
+                "teacher": "Коваленко К. В."
+            }
+        ],
+        "107": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 03.01",
+                "audience": "207М",
+                "teacher": "Неклюдова А. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 03.01",
+                "audience": "207М",
+                "teacher": "Неклюдова А. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 03.01",
+                "audience": "207М",
+                "teacher": "Неклюдова А. В."
+            }
+        ],
+        "140": [],
+        "157": [
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Математика",
+                "audience": "203",
+                "teacher": "Преснова Т. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Физическая культура",
+                "audience": "бассейн",
+                "teacher": "Гамаева  А. С."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Физическая культура",
+                "audience": "бассейн",
+                "teacher": "Гамаева  А. С."
+            }
+        ],
+        "114": [
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "406",
+                "teacher": "Боева О. В./Лигостаева А. Н."
+            }
+        ],
+        "158": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Теория вероятностей",
+                "audience": "203",
+                "teacher": "Преснова Т. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "406",
+                "teacher": "Боева О. В./Лигостаева А. Н."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "      IT-решения",
+                "audience": "302M",
+                "teacher": "Иванова Л. Ю."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "      IT-решения",
+                "audience": "302M",
+                "teacher": "Иванова Л. Ю."
+            }
+        ],
+        "100": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шелаева Д. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Физическая культура",
+                "audience": "С/з",
+                "teacher": "Шелаева Д. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "БЖД",
+                "audience": "218",
+                "teacher": "Димонт А. И."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "БЖД",
+                "audience": "218",
+                "teacher": "Димонт А. И."
+            }
+        ],
+        "115": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.01",
+                "audience": "302M",
+                "teacher": "Иванова Л. Ю."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.01",
+                "audience": "302M",
+                "teacher": "Иванова Л. Ю."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Интернет вещей (306М)/3D:Моделирование",
+                "audience": "401",
+                "teacher": "Бурбулис Э. А./Мармыж Ю. О."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Интернет вещей (306М)/3D:Моделирование",
+                "audience": "401",
+                "teacher": "Бурбулис Э. А./Мармыж Ю. О."
+            }
+        ],
+        "82": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Подготовка к диплому . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Подготовка к диплому . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Подготовка к диплому . ."
+            }
+        ],
+        "139": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Подготовка к диплому . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Подготовка к диплому . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.04",
+                "audience": "402",
+                "teacher": "Подготовка к диплому . ."
+            }
+        ],
+        "150": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Математика",
+                "audience": "301",
+                "teacher": "Бирюкова Е. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Математика",
+                "audience": "301",
+                "teacher": "Бирюкова Е. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Введение в специальность",
+                "audience": "300М",
+                "teacher": "Шестерова А. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Введение в специальность",
+                "audience": "300М",
+                "teacher": "Шестерова А. А."
+            }
+        ],
+        "116": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 04.01",
+                "audience": "501",
+                "teacher": "Дейнега  А. С."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 04.01",
+                "audience": "501",
+                "teacher": "Дейнега  А. С."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 04.01",
+                "audience": "501",
+                "teacher": "Дейнега  А. С."
+            }
+        ],
+        "103": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 01.01",
+                "audience": "304М",
+                "teacher": "Шестерова А. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 01.01",
+                "audience": "304М",
+                "teacher": "Шестерова А. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 01.01",
+                "audience": "304М",
+                "teacher": "Учебная практика . ."
+            }
+        ],
+        "129": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Цифровой модельер",
+                "audience": "401",
+                "teacher": "Учебная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Цифровой модельер",
+                "audience": "401",
+                "teacher": "Учебная практика . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Цифровой модельер",
+                "audience": "401",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Цифровой модельер",
+                "audience": "401",
+                "teacher": "Производственная практика . ."
+            }
+        ],
+        "117": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "216",
+                "teacher": "Делопроизводитель . ./Мпондо Ванг Д. ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "216",
+                "teacher": "Делопроизводитель . ./Мпондо Ванг Д. ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.01",
+                "audience": "303",
+                "teacher": "Таюрский  П. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.01",
+                "audience": "303",
+                "teacher": "Таюрский  П. А."
+            }
+        ],
+        "102": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.02",
+                "audience": "303",
+                "teacher": "Таюрский  П. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.02",
+                "audience": "303",
+                "teacher": "Таюрский  П. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Экономика",
+                "audience": "203М",
+                "teacher": "Ершова Л. И."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Экономика",
+                "audience": "203М",
+                "teacher": "Ершова Л. И."
+            }
+        ],
+        "141": [],
+        "152": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Химия",
+                "audience": "205",
+                "teacher": "Кононова Ю. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Химия",
+                "audience": "205",
+                "teacher": "Кононова Ю. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "История",
+                "audience": "302",
+                "teacher": "Зубакова И. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "История",
+                "audience": "302",
+                "teacher": "Зубакова И. В."
+            }
+        ],
+        "147": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "ОБЗР",
+                "audience": "300",
+                "teacher": "Паукштис Е. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "ОБЗР",
+                "audience": "300",
+                "teacher": "Паукштис Е. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Литература",
+                "audience": "411",
+                "teacher": "Ерохина О. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Родной язык",
+                "audience": "411",
+                "teacher": "Ерохина О. А."
+            }
+        ],
+        "118": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.02",
+                "audience": "300М",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.02",
+                "audience": "300М",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Налоги и налогообложение",
+                "audience": "209",
+                "teacher": "Сойма Д. С."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Налоги и налогообложение",
+                "audience": "209",
+                "teacher": "Сойма Д. С."
+            }
+        ],
+        "160": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Налоги и налогообложение",
+                "audience": "209",
+                "teacher": "Сойма Д. С."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Налоги и налогообложение",
+                "audience": "209",
+                "teacher": "Сойма Д. С."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.03",
+                "audience": "202М",
+                "teacher": "Чукина А. Н."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.03",
+                "audience": "202М",
+                "teacher": "Чукина А. Н."
+            }
+        ],
+        "104": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 03.01",
+                "audience": "203М",
+                "teacher": "Ершова Л. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "1С: Управление торговлей",
+                "audience": "202М",
+                "teacher": "Чукина А. Н."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "1С:Бухгалтерия",
+                "audience": "307",
+                "teacher": "Ахметова И. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "1С:Бухгалтерия",
+                "audience": "307",
+                "teacher": "Ахметова И. В."
+            }
+        ],
+        "119": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 02.02",
+                "audience": "308",
+                "teacher": "Долгих О. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 02.02",
+                "audience": "308",
+                "teacher": "Долгих О. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 02.02",
+                "audience": "308",
+                "teacher": "Долгих О. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 02.02",
+                "audience": "308",
+                "teacher": "Долгих О. В."
+            }
+        ],
+        "151": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "История",
+                "audience": "302",
+                "teacher": "Зубакова И. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "История",
+                "audience": "302",
+                "teacher": "Зубакова И. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "ОБЗР",
+                "audience": "208",
+                "teacher": "Паукштис Е. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "ОБЗР",
+                "audience": "208",
+                "teacher": "Паукштис Е. В."
+            }
+        ],
+        "120": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 07.01",
+                "audience": "205М",
+                "teacher": "Волчкова И. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 07.01",
+                "audience": "205М",
+                "teacher": "Волчкова И. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 07.01",
+                "audience": "205М",
+                "teacher": "Волчкова И. В."
+            }
+        ],
+        "105": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 05.02",
+                "audience": "столовая",
+                "teacher": "Клягин И. Г."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 05.02",
+                "audience": "столовая",
+                "teacher": "Клягин И. Г."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 05.02",
+                "audience": "столовая",
+                "teacher": "Клягин И. Г."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 05.02",
+                "audience": "209М",
+                "teacher": "Клягин И. Г."
+            }
+        ],
+        "86": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 06.02",
+                "audience": "307",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 06.02",
+                "audience": "307",
+                "teacher": "Производственная практика . ."
+            }
+        ],
+        "149": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Информатика",
+                "audience": "202",
+                "teacher": "Жданов А. П."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Менеджмент",
+                "audience": "202",
+                "teacher": "Жданов А. П."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Биология",
+                "audience": "211",
+                "teacher": "Омарова М. М."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Биология",
+                "audience": "211",
+                "teacher": "Омарова М. М."
+            }
+        ],
+        "155": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "География",
+                "audience": "211",
+                "teacher": "Омарова М. М."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Биология",
+                "audience": "211",
+                "teacher": "Омарова М. М."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Родной язык",
+                "audience": "201",
+                "teacher": "Корягина Е. Е."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Литература",
+                "audience": "201",
+                "teacher": "Корягина Е. Е."
+            }
+        ],
+        "154": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Родной язык",
+                "audience": "411",
+                "teacher": "Ерохина О. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Родной язык",
+                "audience": "411",
+                "teacher": "Ерохина О. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Физика",
+                "audience": "306",
+                "teacher": "Логинова М. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Физика",
+                "audience": "306",
+                "teacher": "Логинова М. А."
+            }
+        ],
+        "121": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Материаловедение",
+                "audience": "408",
+                "teacher": "Ляхов Г. П."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Материаловедение",
+                "audience": "408",
+                "teacher": "Ляхов Г. П."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Инженерная графика",
+                "audience": "207М",
+                "teacher": "Ремпель Н. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Инженерная графика",
+                "audience": "207М",
+                "teacher": "Ремпель Н. В."
+            }
+        ],
+        "132": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Немецкий язык (410)/Английский язык",
+                "audience": "406",
+                "teacher": "Боева О. В./Лигостаева А. Н."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Иностранный язык",
+                "audience": "410",
+                "teacher": "Боева О. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Физическая культура",
+                "audience": "бассейн",
+                "teacher": "Шерпетите Н. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Физическая культура",
+                "audience": "бассейн",
+                "teacher": "Шерпетите Н. В."
+            }
+        ],
+        "159": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "ЛПЗ 06.01",
+                "audience": "103М",
+                "teacher": "Сафаралиев Н. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "ЛПЗ 06.01",
+                "audience": "103М",
+                "teacher": "Сафаралиев Н. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "ЛПЗ 06.01",
+                "audience": "103М",
+                "teacher": "Сафаралиев Н. В."
+            }
+        ],
+        "135": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Процессы формообразования",
+                "audience": "407",
+                "teacher": "Ергемлидзе В. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Процессы формообразования",
+                "audience": "407",
+                "teacher": "Ергемлидзе В. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Техническая механика",
+                "audience": "304",
+                "teacher": "Белоконев К. И."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Техническая механика",
+                "audience": "304",
+                "teacher": "Белоконев К. И."
+            }
+        ],
+        "136": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Техническая механика",
+                "audience": "304",
+                "teacher": "Белоконев К. И."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Техническая механика",
+                "audience": "304",
+                "teacher": "Белоконев К. И."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Процессы формообразования",
+                "audience": "407",
+                "teacher": "Ергемлидзе В. И."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Процессы формообразования",
+                "audience": "407",
+                "teacher": "Ергемлидзе В. И."
+            }
+        ],
+        "137": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "УП 06.02",
+                "audience": "201М",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "УП 06.02",
+                "audience": "201М",
+                "teacher": "Производственная практика . ."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "УП 06.02",
+                "audience": "201М",
+                "teacher": "Производственная практика . ."
+            }
+        ],
+        "123": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 05.03",
+                "audience": "207М",
+                "teacher": "Ремпель Н. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 05.03",
+                "audience": "207М",
+                "teacher": "Ремпель Н. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Техническая механика",
+                "audience": "408",
+                "teacher": "Ляхов Г. П."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Техническая механика",
+                "audience": "408",
+                "teacher": "Ляхов Г. П."
+            }
+        ],
+        "101": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "ЛПЗ 01.01",
+                "audience": "206М",
+                "teacher": "Кашев О. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "ЛПЗ 01.01",
+                "audience": "206М",
+                "teacher": "Кашев О. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "ЛПЗ 01.01",
+                "audience": "206М",
+                "teacher": "Кашев О. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.03",
+                "audience": "206М",
+                "teacher": "Кашев О. В."
+            }
+        ],
+        "83": [],
+        "156": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Родной язык",
+                "audience": "201",
+                "teacher": "Корягина Е. Е."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Литература",
+                "audience": "201",
+                "teacher": "Корягина Е. Е."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Математика",
+                "audience": "203",
+                "teacher": "Преснова Т. И."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Математика",
+                "audience": "203",
+                "teacher": "Преснова Т. И."
+            }
+        ],
+        "124": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Основы первой медицинской помощи",
+                "audience": "208",
+                "teacher": "Кузиленков В. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Основы первой медицинской помощи",
+                "audience": "208",
+                "teacher": "Кузиленков В. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Общая и неорганическая химия",
+                "audience": "205",
+                "teacher": "Кононова Ю. А."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Общая и неорганическая химия",
+                "audience": "205",
+                "teacher": "Кононова Ю. А."
+            }
+        ],
+        "106": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "МДК 01.01",
+                "audience": "104",
+                "teacher": "Клешнина С. В."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "МДК 01.01",
+                "audience": "104",
+                "teacher": "Клешнина С. В."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "МДК 01.01",
+                "audience": "104",
+                "teacher": "Клешнина С. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "МДК 01.01",
+                "audience": "104",
+                "teacher": "Клешнина С. В."
+            }
+        ],
+        "88": [],
+        "153": [
+            {
+                "queue_number": "Первая",
+                "name_lesson": "Физика",
+                "audience": "306",
+                "teacher": "Логинова М. А."
+            },
+            {
+                "queue_number": "Вторая",
+                "name_lesson": "Физика",
+                "audience": "306",
+                "teacher": "Логинова М. А."
+            },
+            {
+                "queue_number": "Третья",
+                "name_lesson": "Обществознание",
+                "audience": "300",
+                "teacher": "Костандов Э. В."
+            },
+            {
+                "queue_number": "Четвертая",
+                "name_lesson": "Обществознание",
+                "audience": "300",
+                "teacher": "Костандов Э. В."
+            }
+        ]
+    },
+    "2025-03-27": {
+        "146": [],
+        "162": [],
+        "163": [],
+        "131": [],
+        "110": [],
+        "133": [],
+        "98": [],
+        "148": [],
+        "112": [],
+        "126": [],
+        "107": [],
+        "140": [],
+        "157": [],
+        "114": [],
+        "158": [],
+        "100": [],
+        "115": [],
+        "82": [],
+        "139": [],
+        "150": [],
+        "116": [],
+        "103": [],
+        "129": [],
+        "117": [],
+        "102": [],
+        "141": [],
+        "152": [],
+        "147": [],
+        "118": [],
+        "160": [],
+        "104": [],
+        "119": [],
+        "151": [],
+        "120": [],
+        "105": [],
+        "86": [],
+        "149": [],
+        "155": [],
+        "154": [],
+        "121": [],
+        "132": [],
+        "159": [],
+        "135": [],
+        "136": [],
+        "137": [],
+        "123": [],
+        "101": [],
+        "83": [],
+        "156": [],
+        "124": [],
+        "106": [],
+        "88": [],
+        "153": []
+    },
+    "2025-03-28": {
+        "110": [],
+        "133": [],
+        "98": [],
+        "148": [],
+        "112": [],
+        "126": [],
+        "107": [],
+        "140": [],
+        "157": [],
+        "114": [],
+        "158": [],
+        "100": [],
+        "115": [],
+        "82": [],
+        "139": [],
+        "150": [],
+        "116": [],
+        "103": [],
+        "129": [],
+        "117": [],
+        "102": [],
+        "141": [],
+        "152": [],
+        "147": [],
+        "118": [],
+        "160": [],
+        "104": [],
+        "119": [],
+        "151": [],
+        "120": [],
+        "105": [],
+        "86": [],
+        "149": [],
+        "155": [],
+        "154": [],
+        "121": [],
+        "132": [],
+        "159": [],
+        "135": [],
+        "136": [],
+        "137": [],
+        "123": [],
+        "101": [],
+        "83": [],
+        "156": [],
+        "124": [],
+        "106": [],
+        "88": [],
+        "153": [],
+        "146": [],
+        "162": [],
+        "163": [],
+        "131": []
+    },
+    "2025-03-29": {
+        "110": [],
+        "133": [],
+        "98": [],
+        "148": [],
+        "112": [],
+        "126": [],
+        "107": [],
+        "140": [],
+        "157": [],
+        "114": [],
+        "158": [],
+        "100": [],
+        "115": [],
+        "82": [],
+        "139": [],
+        "150": [],
+        "116": [],
+        "103": [],
+        "129": [],
+        "117": [],
+        "102": [],
+        "141": [],
+        "152": [],
+        "147": [],
+        "118": [],
+        "160": [],
+        "104": [],
+        "119": [],
+        "151": [],
+        "120": [],
+        "105": [],
+        "86": [],
+        "149": [],
+        "155": [],
+        "154": [],
+        "121": [],
+        "132": [],
+        "159": [],
+        "135": [],
+        "136": [],
+        "137": [],
+        "123": [],
+        "101": [],
+        "83": [],
+        "156": [],
+        "124": [],
+        "106": [],
+        "88": [],
+        "153": [],
+        "146": [],
+        "162": [],
+        "163": [],
+        "131": []
+    },
+    "2025-03-30": {
+        "116": [],
+        "103": [],
+        "129": [],
+        "117": [],
+        "102": [],
+        "141": [],
+        "152": [],
+        "147": [],
+        "118": [],
+        "160": [],
+        "104": [],
+        "119": [],
+        "151": [],
+        "120": [],
+        "105": [],
+        "86": [],
+        "149": [],
+        "155": [],
+        "154": [],
+        "121": [],
+        "132": [],
+        "159": [],
+        "135": [],
+        "136": [],
+        "137": [],
+        "123": [],
+        "101": [],
+        "83": [],
+        "156": [],
+        "124": [],
+        "106": [],
+        "88": [],
+        "153": [],
+        "146": [],
+        "162": [],
+        "163": [],
+        "131": [],
+        "110": []
+    }
+}
