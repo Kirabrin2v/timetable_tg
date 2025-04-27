@@ -1,1 +1,2 @@
-python tg_bot.py
+worker:
+  command: python tg_bot.py
