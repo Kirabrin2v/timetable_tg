@@ -4,11 +4,12 @@ import multiprocessing, threading
 import json
 import time
 import parser
+import os
 
-config = configparser.ConfigParser()
-config.read("config.ini")
+# config = configparser.ConfigParser()
+# config.read("config.ini")
 
-tg_key = config.get("VARIABLES", "tg_key")
+tg_key = os.environ["BOT_TOKEN"] # config.get("VARIABLES", "tg_key")
 bot = telebot.TeleBot(tg_key)
 
 subscribers = json.load(open("subscribers.json", encoding="UTF-8"))
