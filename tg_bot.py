@@ -107,6 +107,18 @@ def monitor_shared_data() -> None:
 thread_monitor = threading.Thread(target=monitor_shared_data, daemon=True)
 thread_monitor.start()
 
+def check_alive() -> None:
+	global parser_process
+	while True:
+		if not parser_process.is_alive():
+			time.sleep(1200)
+			print("Парсер перезапущен")
+			parser_process = multiprocessing.Process(target=parser.main, args=(requests, answs))
+			parser_process.start()
+
+thread_check_alive = threading.Thread(target=check_alive, daemon=True)
+thread_check_alive.start()
+
 @bot.message_handler(commands=['help', 'start'])
 def send_welcome(message):
     bot.reply_to(message, """\
