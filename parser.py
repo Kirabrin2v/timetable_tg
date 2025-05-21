@@ -10,8 +10,8 @@ base_url = 'https://guspoliteh.ru/studentu/raspisanie-zanyatiy/'
 
 all_lessons = json.load(open("lessons.json", encoding="UTF-8"))
 
-group_name_to_id = {} # Сопоставление названия группы и айди
-group_id_to_name = {}
+group_name_to_id = {} # Получение айди группы по названию
+group_id_to_name = {} # Получение названия группы по айди
 group_ids = [] # Список айди всех групп
 index_group_id = random.randint(0, 53) # Индекс обрабатываемого в текущий момент айди
 
@@ -22,7 +22,7 @@ interval_between_groups = 15
 time_last_check_shedule = 0
 interval_check_shedule = 10
 
-plus_day_now = 0
+plus_day_now = 0 # Какой день относительно текущего рассматривается в данный момент
 
 count_days_check_shedule = 5 # На сколько дней вперёд проверять расписание
 
@@ -107,12 +107,12 @@ def main(requests: list, answs: list) -> None:
             if len(requests) != 0:
                 request = requests.pop(0)
                 
-            if plus_day_now != 0 or time.time() - time_check_last_group >= interval_check_shedule: # Проверяем очередную группу спустся interval_check_shedule секунд после прошлой
+            if plus_day_now != 0 or time.time() - time_check_last_group >= interval_between_groups: # Проверяем очередную группу спустся interval_check_shedule секунд после прошлой
                 update_names_ids() # Обновляем сопоставлние айди и названия групп
 
                 group_id = str(group_ids[index_group_id]) # Записываем в переменную айди, который нужно обработать
 
-                if index_group_id == 0:
+                if plus_day_now == 0:
                     date_start_search = datetime.date.today()
                 if time.time() - time_last_check_shedule > interval_check_shedule:
                     print(group_id)
